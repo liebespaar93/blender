@@ -28,6 +28,12 @@ Blender Beginner 시작을 위한 학습
 
 ![image](step_1/step_1.png)
 
+## 📚 참고 사이트
+
+[![image](https://cdn.poliigon.com/images/poliigon-opengraph.jpg)](https://www.poliigon.com/)
+
+🔗 Link : <https://www.poliigon.com/>
+
 ## 🏛️ 규칙
 
 | 아이콘 |  형식 | 설명 |
@@ -63,5 +69,6 @@ Blender Beginner 시작을 위한 학습
 | Note | > [!CHECK] | 인용을 이용한 체크 표시 |
 
 ## 🎨 Markdown Style
+
 github의 GitHub Flavored Markdown(GFM)을 다른다  
 🔗 링크 <https://github.github.com/gfm/>
