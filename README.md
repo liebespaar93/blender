@@ -30,9 +30,32 @@ Blender Beginner 시작을 위한 학습
 
 ## 📚 참고 사이트
 
+### 🚀 poliigon
+
 [![image](https://cdn.poliigon.com/images/poliigon-opengraph.jpg)](https://www.poliigon.com/)
 
 🔗 Link : <https://www.poliigon.com/>
+
+### 🚀 pixeledasteroid
+
+[![Alt text](./assets/pixeledasteroid.png)](https://pixeledasteroid.gumroad.com/)
+
+🔗 Link : <https://pixeledasteroid.gumroad.com/>
+
+### 🚀 blenderartists
+
+[![Alt text](https://blenderartists.org/uploads/default/original/4X/2/7/3/273df5ae1a7ae2965e44a3fa7e1e82c6df8df8be.jpeg)](https://blenderartists.org/)
+
+🔗 Link : <https://blenderartists.org/>
+
+> [!NOTE]
+> <https://blenderartists.org/t/space-hdri-earth-mars-and-moon/1407472>
+
+### 🚀 blendermarket
+
+[![Alt text](./assets/black_bee.png)](https://blendermarket.com/)
+
+🔗 Link : <https://blendermarket.com/>
 
 ## 🏛️ 규칙
 
