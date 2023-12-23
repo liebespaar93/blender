@@ -60,9 +60,9 @@ Blender Beginner 시작을 위한 학습
 
 ### 🚀 quixel
 
-[![Alt text](https://cdn.quixel.com/quixel/thumbs/page-thumb-quixel.jpg)](https://quixel.com/bridge)
+[![Alt text](https://cdn.quixel.com/quixel/thumbs/page-thumb-quixel.jpg)](http://quixel.com/bridge)
 
-🔗 Link : <https://quixel.com/bridge>
+🔗 Link : <http://quixel.com/bridge>
 
 ## 🏛️ 규칙
 
