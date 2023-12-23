@@ -57,6 +57,13 @@ Blender Beginner 시작을 위한 학습
 
 🔗 Link : <https://blendermarket.com/>
 
+
+### 🚀 quixel
+
+[![Alt text](https://cdn.quixel.com/quixel/thumbs/page-thumb-quixel.jpg)](https://quixel.com/)
+
+🔗 Link : <https://quixel.com/>
+
 ## 🏛️ 규칙
 
 | 아이콘 |  형식 | 설명 |
