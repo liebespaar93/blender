@@ -78,6 +78,13 @@ Blender Beginner 시작을 위한 학습
 
 🔗 Link : <https://www.fontspace.com/>
 
+### 🚀 turbosquid
+
+[![Alt text](https://static.turbosquid.com/SiteFiles/Home/FeaturedImage/abandoned_airport_by_scansmatter_the-real-1.jpg)](https://www.turbosquid.com/ko/)
+
+🔗 Link : <https://www.turbosquid.com/ko/>
+
+
 ## 🏛️ 규칙
 
 | 아이콘 |  형식 | 설명 |
