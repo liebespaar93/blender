@@ -84,6 +84,12 @@ Blender Beginner 시작을 위한 학습
 
 🔗 Link : <https://www.turbosquid.com/ko/>
 
+### 🚀 myminifactory
+
+[![Alt text](https://static.myminifactory.com/images/myminifactory-homepage.png?v152)](https://www.myminifactory.com/)
+
+🔗 Link : <https://www.myminifactory.com/>
+
 
 ## 🏛️ 규칙
 
