@@ -90,6 +90,9 @@ Blender Beginner 시작을 위한 학습
 
 🔗 Link : <https://www.myminifactory.com/>
 
+### 🚀 Pack 3D Model
+
+[https://p3dm.ru/](https://p3dm.ru/)
 
 ## 🏛️ 규칙
 
